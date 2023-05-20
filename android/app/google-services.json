@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156808081968",
+    "project_id": "msa-palliative-care",
+    "storage_bucket": "msa-palliative-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156808081968:android:b8726a01f533dd939bb3f5",
+        "android_client_info": {
+          "package_name": "com.msa2002.palliative_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156808081968-fkcb1cd69heiduc4rtpc0usu6hcnnva8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChXBqVq27xMTNPATMcmJD92g-FuGhJRp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156808081968-fkcb1cd69heiduc4rtpc0usu6hcnnva8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
